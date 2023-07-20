@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Avanit, Engineering Graduate
-- 👀 I’m very fond of playing with data to get new interesting facts.
-- 🌱 I’m currently learning for Python, SQL, Power BI in depth
-- 💞️ I’m looking to collaborate on Data analyst and machince learning
-- 📫 How to reach me by searching repository name - av-kashi
+- 👀 I'm very fond of listening data, data visualisation and getting insights of data using tools like SQL, Tableau/Power BI, Python Azure/AWS,Excel
+- 🌱 I’m currently looking for career as a data analyst.
+- 💞️ I’m looking to collaborate on projects related to Data analyst and machince learning
 
 <!---
 av-kashi/av-kashi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
